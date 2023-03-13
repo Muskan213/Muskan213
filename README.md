@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/illustration-social-media-concept_53876-18140.jpg?w=740&t=st=1678699580~exp=1678700180~hmac=84e6b8f9b02eff4fb58cb193086598a213c21f9d2927d5b7fa8329a61e2e54c4)]
+[![MasterHead](https://img.freepik.com/premium-photo/chart-with-uptrend-line-graph-bar-chart-diagram-bull-market-dark-blue-background_97770-5.jpg?w=740)]
 <h1 align="center">Hi 👋, I'm 𝐌𝐮𝐬𝐤𝐚𝐧 𝐉𝐚𝐢𝐬𝐰𝐚𝐥</h1>
 <h3 align="center">A Passionate Data Enthusiast from India</h3>
 
