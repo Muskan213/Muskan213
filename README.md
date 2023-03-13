@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.vectorstock.com/i/1000x1000/46/48/target-analytics-vector-27844648.webp)]
+[![MasterHead](https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-20889.jpg?w=826)]
 <h1 align="center">Hi 👋, I'm 𝐌𝐮𝐬𝐤𝐚𝐧 𝐉𝐚𝐢𝐬𝐰𝐚𝐥</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
