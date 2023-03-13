@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm 𝐌𝐮𝐬𝐤𝐚𝐧 𝐉𝐚𝐢𝐬𝐰𝐚𝐥</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe7%2F26%2Fc7%2Fe726c74ac081eed50feee1433d12c998.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F615374736573846166%2F&tbnid=tkD88475CNPNmM&vet=12ahUKEwjgt8-zstj9AhU9zHMBHWVZAc0QMygEegUIARD7AQ..i&docid=PUHZKtP8XEZq0M&w=800&h=600&q=animated%20coding%20%20girl%20gif&ved=2ahUKEwjgt8-zstj9AhU9zHMBHWVZAc0QMygEegUIARD7AQ">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan213&label=Profile%20views&color=0e75b6&style=flat" alt="muskan213" /> </p>
 
