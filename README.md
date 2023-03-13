@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/business-data-analysis_53876-95296.jpg?w=740&t=st=1678699340~exp=1678699940~hmac=b44de15fc6f2004faf510b8712f37f580bbe3fdb04b4d47c59f879cbec4a43c8)]
+[![MasterHead](https://img.freepik.com/free-vector/illustration-social-media-concept_53876-18140.jpg?w=740&t=st=1678699580~exp=1678700180~hmac=84e6b8f9b02eff4fb58cb193086598a213c21f9d2927d5b7fa8329a61e2e54c4)]
 <h1 align="center">Hi 👋, I'm 𝐌𝐮𝐬𝐤𝐚𝐧 𝐉𝐚𝐢𝐬𝐰𝐚𝐥</h1>
 <h3 align="center">A Passionate Data Enthusiast from India</h3>
 
