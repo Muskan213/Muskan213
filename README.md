@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/chart-with-uptrend-line-graph-bar-chart-diagram-bull-market-dark-blue-background_97770-5.jpg?w=740)]
+[![MasterHead](https://grad.uwo.ca/img/programs/mda_Banner.jpg)]
 <h1 align="center">Hi 👋, I'm 𝐌𝐮𝐬𝐤𝐚𝐧 𝐉𝐚𝐢𝐬𝐰𝐚𝐥</h1>
 <h3 align="center">A Passionate Data Enthusiast from India</h3>
 
