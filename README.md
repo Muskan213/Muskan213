@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **enhancing my skills**
 
-- 💬 Ask me about **𝗘𝘅𝗰𝗲𝗹, 𝗦𝗤𝗟, 𝗣𝗼𝘄𝗲𝗿 𝗕𝗜 , 𝗣𝘆𝘁𝗵𝗼𝗻**
+- 💬 Ask me about **𝙀𝙭𝙘𝙚𝙡, 𝙋𝙤𝙬𝙚𝙧 𝘽𝙄, 𝙎𝙌𝙇, 𝙋𝙮𝙩𝙝𝙤𝙣**
 
 - 📫 How to reach me **jaiswalmuskan213@gmail.com**
 
