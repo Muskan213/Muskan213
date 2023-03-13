@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.vectorstock.com/i/preview-1x/86/49/data-analysis-isometric-web-banner-template-vector-26088649.webp)]
+[![MasterHead]([https://cdn.vectorstock.com/i/preview-1x/86/49/data-analysis-isometric-web-banner-template-vector-26088649.webp](https://cdn.vectorstock.com/i/1000x1000/46/48/target-analytics-vector-27844648.webp))]
 <h1 align="center">Hi 👋, I'm 𝐌𝐮𝐬𝐤𝐚𝐧 𝐉𝐚𝐢𝐬𝐰𝐚𝐥</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
