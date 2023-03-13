@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/free-photo/business-data-analysis_53876-95296.jpg?w=740&t=st=1678699340~exp=1678699940~hmac=b44de15fc6f2004faf510b8712f37f580bbe3fdb04b4d47c59f879cbec4a43c8)]
 <h1 align="center">Hi 👋, I'm 𝐌𝐮𝐬𝐤𝐚𝐧 𝐉𝐚𝐢𝐬𝐰𝐚𝐥</h1>
-<h3 align="center">A passionate Data Enthusiast from India</h3>
+<h3 align="center">A Passionate Data Enthusiast from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
