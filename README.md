@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-photo/business-data-financial-figures-visualiser-graphic_31965-20889.jpg?w=826)]
+[![MasterHead](https://img.freepik.com/free-photo/business-data-analysis_53876-95296.jpg?w=740&t=st=1678699340~exp=1678699940~hmac=b44de15fc6f2004faf510b8712f37f580bbe3fdb04b4d47c59f879cbec4a43c8)]
 <h1 align="center">Hi 👋, I'm 𝐌𝐮𝐬𝐤𝐚𝐧 𝐉𝐚𝐢𝐬𝐰𝐚𝐥</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
