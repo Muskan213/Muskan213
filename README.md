@@ -1,18 +1,18 @@
 [![MasterHead](https://grad.uwo.ca/img/programs/mda_Banner.jpg)]
 <h1 align="center">Hi 👋, I'm 𝐌𝐮𝐬𝐤𝐚𝐧 𝐉𝐚𝐢𝐬𝐰𝐚𝐥</h1>
-<h3 align="center">A Passionate Data Enthusiast from India</h3>
+<h3 align="center">A Data Analyst</h3>
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan213&label=Profile%20views&color=0e75b6&style=flat" alt="muskan213" /> </p>
 
-- 🔭 I’m currently working on **enhancing my skills**
+- 🔭 I’m currently working on **giving my best at work and learning new skills**
 
 - 💬 Ask me about **𝘌𝘹𝘤𝘦𝘭, 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐, 𝘚𝘘𝘓, 𝘗𝘺𝘵𝘩𝘰𝘯**
 
 - 📫 How to reach me **jaiswalmuskan213@gmail.com**
 
-- ⚡ Fun fact **I am switching to tech world from non-tech and really enjoying it.**
+- ⚡ Fun fact **switched to tech world from non-tech and realized it's good place to be in😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
