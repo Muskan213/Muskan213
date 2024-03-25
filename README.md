@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jaiswalmuskan213@gmail.com**
 
-- ⚡ Fun fact **switched to tech world from non-tech and realized it's a good place to be in😊**
+- ⚡ Fun fact **switched to the tech world from non-tech and realized it's a good place to be in😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
