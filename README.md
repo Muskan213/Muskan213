@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **𝘌𝘹𝘤𝘦𝘭, 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐, 𝘚𝘘𝘓, 𝘗𝘺𝘵𝘩𝘰𝘯**
 
-- 📫 How to reach me **jaiswalmuskan213@gmail.com**
-
 - ⚡ Fun fact **switched to the tech world from non-tech and realized it's a good place to be in😊**
 
 <h3 align="left">Connect with me:</h3>
