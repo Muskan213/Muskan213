@@ -1,5 +1,5 @@
-[![MasterHead](https://grad.uwo.ca/img/programs/mda_Banner.jpg)]
-<h1 align="center">Hi 👋, I'm 𝐌𝐮𝐬𝐤𝐚𝐧 𝐉𝐚𝐢𝐬𝐰𝐚𝐥</h1>
+[![MasterHead](https://github.com/Muskan213/Muskan213/blob/main/Github_image.png)]
+<h1 align="center">Muskan Jaiswal — Data Analyst | Data Engineer</h1>
 <h3 align="center">A Data Analyst👩‍💻📊</h3>
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
