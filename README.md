@@ -1,28 +1,50 @@
-[![MasterHead](https://github.com/Muskan213/Muskan213/blob/main/Github_image.png)]
+<div align="center">
+  <img src="https://github.com/Muskan213/Muskan213/blob/main/Github_image.png" alt="Muskan Jaiswal Banner" width="100%" />
+</div>
+
 <h1 align="center">Muskan Jaiswal — Data Analyst | Data Engineer</h1>
-<h3 align="center">A Data Analyst👩‍💻📊</h3>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muskan213&label=Profile%20views&color=0e75b6&style=flat" alt="muskan213" /> </p>
-
-- 🔭 I’m currently working on **learning new skills & refining the old ones**
-
-- 💬 Ask me about **𝘌𝘹𝘤𝘦𝘭, 𝘗𝘰𝘸𝘦𝘳 𝘉𝘐, 𝘚𝘘𝘓, 𝘗𝘺𝘵𝘩𝘰𝘯**
-
-- ⚡ Fun fact **switched to the tech world from non-tech and realized it's a good place to be in😊**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/muskan-jaiswal-066b19239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muskanjaiswal12/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muskan213&label=Profile%20views&color=0e75b6&style=flat" alt="muskan213 profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/> </a> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/1x/power-bi.png" alt="powerbi" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.singlestore.com/" target="_blank" rel="noreferrer"> <img src="https://www.trustradius.com/_next/image?url=https%3A%2F%2Fmedia.trustradius.com%2Fproduct-logos%2Fxf%2Fbs%2F58KUTTI3WD7T-180x180.PNG&w=256&q=75" alt="SingleStore" width="40" height="40"/> </a> <a href="https://www.snaplogic.com/" target="_blank" rel="noreferrer"> <img src="https://www.snaplogic.com/wp-content/uploads/2022/09/SL_logo_blue_web.png" alt="Snaplogic" width="40" height="40"/> </a></p>
+---
 
-  
-  
-  
-  
+### 👨‍💻 About Me
 
+I am a Data Analyst with 3 years of experience specializing in building automated data pipelines, writing optimized SQL frameworks, and delivering strategic business insights. I transitioned into the tech world from a non-tech background, which gives me a unique, business-first perspective on bridging the gap between raw data and actionable strategy.
 
+- 🔭 **Currently working on:** Designing scalable ETL pipelines and optimizing data integration workflows to solve specific business problems.
+- 💡 **Core Stack:** Advanced SQL, Python, and enterprise integration tools like SnapLogic.
+- 💬 **Ask me about:** Database management, API integration, and revenue analysis.
+- 📫 **How to reach me:** [jaiswalmuskan213@gmail.com](mailto:jaiswalmuskan213@gmail.com) | [LinkedIn](https://www.linkedin.com/in/muskan-jaiswal-066b19239/)
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  </a>
+  <a href="https://www.snaplogic.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SnapLogic-0052CC?style=for-the-badge&logo=dataiku&logoColor=white" alt="SnapLogic" />
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=muskan213&show_icons=true&theme=radical&hide_border=true" alt="Muskan's GitHub Stats" />
+</div>
