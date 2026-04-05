@@ -84,7 +84,7 @@ What makes me different:
 ### 🔹 Revenue Leakage Prevention System
 - Built SQL-based reporting to track refund anomalies
 - Identified users with overlapping bookings
-- Prevented unnecessary costs (~13K impact)
+- Delivered insights to **EXCOM**, preventing unnecessary costs (**~$45K** impact)
 
 ---
 
@@ -102,12 +102,17 @@ What makes me different:
 
 ---
 
-### 🔹 Hotel Pricing Intelligence Dashboard
-- Scraped **50K+ listings & 100K+ reviews**
-- Built Power BI dashboard for pricing insights
-- Identified **12–15% revenue uplift opportunity**
+### 🔹 Lead Fulfillment & Operations Optimization System   
+- Built an end-to-end lead delivery pipeline (Google Forms & Sheets, Apps Script, SQL) processing **15K+** records/month  
+- Reduced turnaround time from 3+ days to **next-day** across 10+ stakeholders  
+- Ensured **100% on-time delivery** through automation and workflow optimization  
 
 ---
+
+### 🔹 NetSuite Data Source Migration
+- Led **end-to-end migration** from NetSuite to NetSuite2 for critical reporting systems  
+- Built and validated pipelines ensuring **data accuracy** and continuity  
+- Optimized queries and transformations for reliable analytics workflows  
 
 ## 📊 GitHub Stats
 
