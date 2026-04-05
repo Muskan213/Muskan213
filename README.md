@@ -119,16 +119,3 @@ What makes me different:
 - 🌟 Employee of the Month
 - 🚀 Delivered automation & analytics solutions used by leadership
 
----
-
-## 📬 Let’s Connect
-
-I’m actively looking for **Data Analyst roles (high-impact, product/data-driven teams)**
-
-If you’re hiring or want to collaborate:
-📩 **Email:** jaiswalmuskan213@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/muskan-jaiswal-066b19239/
-
----
-
-⭐ *If you find my work interesting, feel free to explore my repositories!*
