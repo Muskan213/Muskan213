@@ -114,14 +114,6 @@ What makes me different:
 - Built and validated pipelines ensuring **data accuracy** and continuity  
 - Optimized queries and transformations for reliable analytics workflows  
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=muskan213&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-</p>
 
 ---
 
