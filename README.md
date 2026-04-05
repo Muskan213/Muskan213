@@ -31,13 +31,14 @@ What makes me different:
 - I focus on **business impact, not just dashboards**
 
 💡 I’ve worked on:
+- Delivering refund analytics to **EXCOM**, preventing **~$45K** in revenue leakage
 - Improving **customer retention by 20%**
-- Preventing **revenue leakage through data-driven insights**
-- Automating workflows saving **36+ hours annually**
-- Handling **100K+ user datasets for business decisioning**
-- Designing and managing **ETL pipelines** for reliable data flow 
+- Reducing lead delivery TAT from 3+ days to **next-day** across **10+ stakeholders**
 - Building **data quality** systems detecting 500+ daily anomalies  
+- Automating workflows saving **36+ hours annually**
 - Leading critical **data migrations** for uninterrupted reporting
+- Designing and managing **ETL pipelines** for reliable data flow 
+
 
 ---
 
