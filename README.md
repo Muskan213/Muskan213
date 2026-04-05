@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Muskan Jaiswal</h1>
-<h3 align="center">Data Analyst (3 YOE) | SQL • Python • Power BI | Data Engineering Mindset</h3>
+<h3 align="center">Data Analyst (3 YOE) | SQL • Python • Power BI | Analytics & Data Engineering</h3>
 
 <p align="center">
   Turning raw data into revenue impact, automation, and business decisions
@@ -32,9 +32,12 @@ What makes me different:
 
 💡 I’ve worked on:
 - Improving **customer retention by 20%**
-- Preventing **revenue leakage & unnecessary costs**
+- Preventing **revenue leakage through data-driven insights**
 - Automating workflows saving **36+ hours annually**
-- Handling **100K+ user datasets & real-time pipelines**
+- Handling **100K+ user datasets for business decisioning**
+- Designing and managing **ETL pipelines** for reliable data flow 
+- Building **data quality** systems detecting 500+ daily anomalies  
+- Leading critical **data migrations** for uninterrupted reporting
 
 ---
 
