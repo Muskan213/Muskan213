@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Muskan Jaiswal</h1>
-<h3 align="center">Data Analyst (3+ YOE) | SQL • Python • Python • Power BI | Analytics & Data Engineering</h3>
+<h3 align="center">Data Analyst (3+ YOE) | SQL • Excel • Python • Power BI | Analytics & Data Engineering</h3>
 
 <p align="center">
   Turning raw data into revenue impact, automation, and business decisions
