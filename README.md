@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Muskan Jaiswal</h1>
-<h3 align="center">Data Analyst (3 YOE) | SQL • Python • Power BI | Analytics & Data Engineering</h3>
+<h3 align="center">Data Analyst (3+ YOE) | SQL • Python • Power BI | Analytics & Data Engineering</h3>
 
 <p align="center">
   Turning raw data into revenue impact, automation, and business decisions
@@ -23,7 +23,7 @@
 
 ## 👩‍💻 About Me
 
-I’m a **Data Analyst with 3 years of experience** helping businesses make smarter decisions through data.
+I’m a **Data Analyst with 3+ years of experience** helping businesses make smarter decisions through data.
 
 What makes me different:
 - I don’t just analyze data — I **build systems that generate insights automatically**
